@@ -1,9 +1,9 @@
 import React from 'react';
-import Dashboard from './dashboard/Dashboard';
+import GuardDashboard from './guard/Dashboard';
 
 function App() {
   return (
-    <Dashboard />
+    <GuardDashboard />
   );
 }
 
