@@ -19,7 +19,7 @@ import ChevronLeftIcon from '@material-ui/icons/ChevronLeft';
 import NotificationsIcon from '@material-ui/icons/Notifications';
 import { mainListItems } from './listItems';
 import Orders from './Orders';
-import Copyright from './../common/Copyright';
+import Copyright from '../common/Copyright';
 
 const drawerWidth = 240;
 
